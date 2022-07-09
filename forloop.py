@@ -1,0 +1,1 @@
+list1=['athira',"sudheesh","arathi","appu","sreny"]

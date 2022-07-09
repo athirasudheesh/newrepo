@@ -1,0 +1,6 @@
+a="my name is {}.i am coming from {}.i am {} years old".format("athira","clt","23")
+print(a)
+b="my name is {0}.i am coming from {2}.i am {1} years old".format("athira","25","clt")
+print(b)
+c="my name is {name}.i am coming from {place}.i am {age} years old".format(name="athira",age=25,place="clt")
+print(c)

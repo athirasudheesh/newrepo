@@ -1,0 +1,13 @@
+t=()
+print(type(t))
+t=("athira","sunil")
+print(t)
+t=("athira","sn")
+print(t)
+t=(3,)
+t=("apple","banana","cherry")
+t=list(t)
+t[1]="orange"
+print(t)
+t=tuple(t)
+print(t)
